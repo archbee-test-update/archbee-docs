@@ -1,39 +1,35 @@
 ---
 title: Release Notes
 slug: release-notes
-hidden: true
 docTags: 
 createdAt: Wed Jul 08 2026 09:33:37 GMT+0000 (Coordinated Universal Time)
 ---
 
 ## What's new
 
-:::Changelog{title="v2.4.0"}
-::ChangelogItem{type="added" description="New Workflow block for step-by-step guides"}
-
-::ChangelogItem{type="improved" description="Faster document search across large spaces"}
-
-::ChangelogItem{type="fixed" description="Table cell merge no longer drops background color on publish"}
-
-::ChangelogItem{type="knownIssue" description="Mermaid diagrams may need a manual refresh after edit-in-preview"}
-:::
+<Changelog title="v2.4.0">
+  <ChangelogItem type="added" description="New Workflow block for step-by-step guides" /><ChangelogItem type="improved" description="Faster document search across large spaces" /><ChangelogItem type="fixed" description="Table cell merge no longer drops background color on publish" /><ChangelogItem type="knownIssue" description="Mermaid diagrams may need a manual refresh after edit-in-preview" />
+</Changelog>
 
 ## Before and after
 
-::::VerticalSplit{layout="left"}
-:::VerticalSplitItem
-### Before
-Publishing required a manual sync step for every space.
-:::
-:::VerticalSplitItem
-### After
-Publishing now propagates to all connected spaces automatically.
-:::
-::::
+<VerticalSplit layout="left">
+  <VerticalSplitItem>
+    ### Before
 
-:::hint{type="info"}
-Upgrading is automatic for cloud workspaces. Self-hosted customers should pull the latest image.
-:::
+    Publishing required a manual sync step for every space.
+  </VerticalSplitItem>
+
+  <VerticalSplitItem>
+    ### After
+
+    Publishing now propagates to all connected spaces automatically.
+  </VerticalSplitItem>
+</VerticalSplit>
+
+<hint type="info">
+  Upgrading is automatic for cloud workspaces. Self-hosted customers should pull the latest image.
+</hint>
 
 ## Performance note
 
