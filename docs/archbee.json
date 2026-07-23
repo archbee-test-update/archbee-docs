@@ -7,43 +7,37 @@
         "categoryName": "Api-reference.mdx",
         "isCategory": false,
         "path": "api-reference.mdx",
-        "children": [],
-        "isHidden": true
+        "children": []
       },
       {
         "categoryName": "Cascade-child.mdx",
         "isCategory": false,
         "path": "cascade-child.mdx",
-        "children": [],
-        "isHidden": false
+        "children": []
       },
       {
         "categoryName": "Cascade-parent.mdx",
         "isCategory": false,
         "path": "cascade-parent.mdx",
-        "children": [],
-        "isHidden": true
+        "children": []
       },
       {
         "categoryName": "Feature-tour.mdx",
         "isCategory": false,
         "path": "feature-tour.mdx",
-        "children": [],
-        "isHidden": false
+        "children": []
       },
       {
         "categoryName": "Getting-started.mdx",
         "isCategory": false,
         "path": "getting-started.mdx",
-        "children": [],
-        "isHidden": false
+        "children": []
       },
       {
         "categoryName": "Internal-runbook.mdx",
         "isCategory": false,
         "path": "internal-runbook.mdx",
-        "children": [],
-        "isHidden": true
+        "children": []
       },
       {
         "categoryName": "No-hidden-flag.mdx",
@@ -55,21 +49,13 @@
         "categoryName": "Release-notes.mdx",
         "isCategory": false,
         "path": "release-notes.mdx",
-        "children": [],
-        "isHidden": true
+        "children": []
       },
       {
         "categoryName": "This-is-a-doc.mdx",
         "isCategory": false,
         "path": "this-is-a-doc.mdx",
-        "children": [],
-        "isHidden": true
-      },
-      {
-        "categoryName": "Shadow Docs",
-        "isCategory": true,
-        "children": [],
-        "isShadowDocs": true
+        "children": []
       }
     ]
   },
