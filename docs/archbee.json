@@ -1,0 +1,77 @@
+{
+  "docsPath": "docs/",
+  "structure": {
+    "assets": "assets/",
+    "docsTree": [
+      {
+        "categoryName": "Api-reference.mdx",
+        "isCategory": false,
+        "path": "api-reference.mdx",
+        "children": [],
+        "isHidden": true
+      },
+      {
+        "categoryName": "Cascade-child.mdx",
+        "isCategory": false,
+        "path": "cascade-child.mdx",
+        "children": [],
+        "isHidden": false
+      },
+      {
+        "categoryName": "Cascade-parent.mdx",
+        "isCategory": false,
+        "path": "cascade-parent.mdx",
+        "children": [],
+        "isHidden": true
+      },
+      {
+        "categoryName": "Feature-tour.mdx",
+        "isCategory": false,
+        "path": "feature-tour.mdx",
+        "children": [],
+        "isHidden": false
+      },
+      {
+        "categoryName": "Getting-started.mdx",
+        "isCategory": false,
+        "path": "getting-started.mdx",
+        "children": [],
+        "isHidden": false
+      },
+      {
+        "categoryName": "Internal-runbook.mdx",
+        "isCategory": false,
+        "path": "internal-runbook.mdx",
+        "children": [],
+        "isHidden": true
+      },
+      {
+        "categoryName": "No-hidden-flag.mdx",
+        "isCategory": false,
+        "path": "no-hidden-flag.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Release-notes.mdx",
+        "isCategory": false,
+        "path": "release-notes.mdx",
+        "children": [],
+        "isHidden": true
+      },
+      {
+        "categoryName": "This-is-a-doc.mdx",
+        "isCategory": false,
+        "path": "this-is-a-doc.mdx",
+        "children": [],
+        "isHidden": true
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [],
+        "isShadowDocs": true
+      }
+    ]
+  },
+  "shadowDocs": []
+}
