@@ -56,12 +56,6 @@
         "isCategory": false,
         "path": "this-is-a-doc.mdx",
         "children": []
-      },
-      {
-        "categoryName": "Shadow Docs",
-        "isCategory": true,
-        "children": [],
-        "isShadowDocs": true
       }
     ]
   },
