@@ -4,32 +4,19 @@
     "assets": "assets/",
     "docsTree": [
       {
-        "categoryName": "teste",
-        "isCategory": true,
-        "children": [
-          {
-            "path": "teste/dgQOLCRbE5T_0HgviCG-b.mdx",
-            "children": [
-              {
-                "categoryName": "Api-reference.mdx",
-                "isCategory": false,
-                "path": "api-reference.mdx",
-                "children": []
-              }
-            ]
-          },
-          {
-            "categoryName": "Cascade-child.mdx",
-            "isCategory": false,
-            "path": "cascade-child.mdx",
-            "children": []
-          }
-        ]
+        "path": "adssadfsadf.mdx",
+        "children": []
       },
       {
-        "categoryName": "Getting-started.mdx",
+        "categoryName": "Api-reference.mdx",
         "isCategory": false,
-        "path": "getting-started.mdx",
+        "path": "api-reference.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Cascade-child.mdx",
+        "isCategory": false,
+        "path": "cascade-child.mdx",
         "children": []
       },
       {
@@ -42,6 +29,12 @@
         "categoryName": "Feature-tour.mdx",
         "isCategory": false,
         "path": "feature-tour.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Getting-started.mdx",
+        "isCategory": false,
+        "path": "getting-started.mdx",
         "children": []
       },
       {
@@ -63,16 +56,22 @@
         "children": []
       },
       {
+        "categoryName": "Teste",
+        "isCategory": true,
+        "children": [
+          {
+            "categoryName": "DgQOLCRbE5T_0HgviCG-b.mdx",
+            "isCategory": false,
+            "path": "teste/dgQOLCRbE5T_0HgviCG-b.mdx",
+            "children": []
+          }
+        ]
+      },
+      {
         "categoryName": "This-is-a-doc.mdx",
         "isCategory": false,
         "path": "this-is-a-doc.mdx",
         "children": []
-      },
-      {
-        "categoryName": "Shadow Docs",
-        "isCategory": true,
-        "children": [],
-        "isShadowDocs": true
       }
     ]
   },
