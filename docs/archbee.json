@@ -4,6 +4,12 @@
     "assets": "assets/",
     "docsTree": [
       {
+        "path": "JEgxr267y8tyKzu_zn4ls.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Adssadfsadf.mdx",
+        "isCategory": false,
         "path": "adssadfsadf.mdx",
         "children": []
       },
@@ -66,6 +72,12 @@
             "children": []
           }
         ]
+      },
+      {
+        "categoryName": "Teste.mdx",
+        "isCategory": false,
+        "path": "teste.mdx",
+        "children": []
       },
       {
         "categoryName": "This-is-a-doc.mdx",
