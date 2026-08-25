@@ -8,6 +8,12 @@
         "children": []
       },
       {
+        "categoryName": "Nested checklist test 2",
+        "isCategory": false,
+        "path": "nested-checklist-test-2.mdx",
+        "children": []
+      },
+      {
         "categoryName": "Nested checklist test",
         "isCategory": false,
         "path": "nested-checklist-test.mdx",
