@@ -117,6 +117,12 @@
         "children": []
       },
       {
+        "categoryName": "Shadow-docs.mdx",
+        "isCategory": false,
+        "path": "shadow-docs.mdx",
+        "children": []
+      },
+      {
         "categoryName": "Shadow-docs",
         "isCategory": true,
         "children": [
@@ -151,12 +157,6 @@
             "children": []
           }
         ]
-      },
-      {
-        "categoryName": "Shadow-docs.mdx",
-        "isCategory": false,
-        "path": "shadow-docs.mdx",
-        "children": []
       },
       {
         "categoryName": "Teste",
