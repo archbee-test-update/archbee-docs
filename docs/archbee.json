@@ -131,8 +131,20 @@
             "isCategory": false,
             "path": "shadow-docs/manual-shadow-document.mdx",
             "children": []
+          },
+          {
+            "categoryName": "This-will-disappear.mdx",
+            "isCategory": false,
+            "path": "shadow-docs/this-will-disappear.mdx",
+            "children": []
           }
         ]
+      },
+      {
+        "categoryName": "Shadow-docs.mdx",
+        "isCategory": false,
+        "path": "shadow-docs.mdx",
+        "children": []
       },
       {
         "categoryName": "Teste",
@@ -169,7 +181,7 @@
         "isCategory": true,
         "children": [
           {
-            "path": "shadow-docs/this-will-disappear.mdx",
+            "path": "shadow-docs/no-way.mdx",
             "children": []
           }
         ],
