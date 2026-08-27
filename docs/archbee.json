@@ -133,6 +133,12 @@
             "children": []
           },
           {
+            "categoryName": "No-way.mdx",
+            "isCategory": false,
+            "path": "shadow-docs/no-way.mdx",
+            "children": []
+          },
+          {
             "categoryName": "This-will-disappear.mdx",
             "isCategory": false,
             "path": "shadow-docs/this-will-disappear.mdx",
@@ -181,7 +187,7 @@
         "isCategory": true,
         "children": [
           {
-            "path": "shadow-docs/no-way.mdx",
+            "path": "shadow-docs/this-is-not-possible.mdx",
             "children": []
           }
         ],
