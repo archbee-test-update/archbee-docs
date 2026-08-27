@@ -4,25 +4,15 @@
     "assets": "assets/",
     "docsTree": [
       {
-        "path": "yes.mdx",
-        "children": []
-      },
-      {
-        "categoryName": "Nested checklist test 2",
-        "isCategory": false,
-        "path": "nested-checklist-test-2.mdx",
-        "children": []
-      },
-      {
-        "categoryName": "Nested checklist test",
-        "isCategory": false,
-        "path": "nested-checklist-test.mdx",
-        "children": []
-      },
-      {
         "categoryName": "-Y5-mkK9Jd04jc5zod0Ou.mdx",
         "isCategory": false,
         "path": "-Y5-mkK9Jd04jc5zod0Ou.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Em2o7ZzCJNmGYsf0slNLQ.mdx",
+        "isCategory": false,
+        "path": "Em2o7ZzCJNmGYsf0slNLQ.mdx",
         "children": []
       },
       {
@@ -62,6 +52,13 @@
         "children": []
       },
       {
+        "categoryName": "Copy-of-this-is-a-doc.mdx",
+        "isCategory": false,
+        "path": "copy-of-this-is-a-doc.mdx",
+        "children": [],
+        "isHidden": true
+      },
+      {
         "categoryName": "Feature-tour.mdx",
         "isCategory": false,
         "path": "feature-tour.mdx",
@@ -77,6 +74,18 @@
         "categoryName": "Internal-runbook.mdx",
         "isCategory": false,
         "path": "internal-runbook.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Nested-checklist-test-2.mdx",
+        "isCategory": false,
+        "path": "nested-checklist-test-2.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Nested-checklist-test.mdx",
+        "isCategory": false,
+        "path": "nested-checklist-test.mdx",
         "children": []
       },
       {
@@ -103,6 +112,12 @@
         "children": []
       },
       {
+        "categoryName": "Second-copy-of-this-is-a-doc.mdx",
+        "isCategory": false,
+        "path": "second-copy-of-this-is-a-doc.mdx",
+        "children": []
+      },
+      {
         "categoryName": "Teste",
         "isCategory": true,
         "children": [
@@ -125,6 +140,27 @@
         "isCategory": false,
         "path": "this-is-a-doc.mdx",
         "children": []
+      },
+      {
+        "categoryName": "Yes.mdx",
+        "isCategory": false,
+        "path": "yes.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Shadow Docs",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "shadow-docs/another-shadow-document.mdx",
+            "children": []
+          },
+          {
+            "path": "shadow-docs/manual-shadow-document.mdx",
+            "children": []
+          }
+        ],
+        "isShadowDocs": true
       }
     ]
   },
