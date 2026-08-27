@@ -139,6 +139,12 @@
             "children": []
           },
           {
+            "categoryName": "This-is-not-possible.mdx",
+            "isCategory": false,
+            "path": "shadow-docs/this-is-not-possible.mdx",
+            "children": []
+          },
+          {
             "categoryName": "This-will-disappear.mdx",
             "isCategory": false,
             "path": "shadow-docs/this-will-disappear.mdx",
@@ -187,7 +193,7 @@
         "isCategory": true,
         "children": [
           {
-            "path": "shadow-docs/this-is-not-possible.mdx",
+            "path": "shadow-docs/last-shadow-doc.mdx",
             "children": []
           }
         ],
