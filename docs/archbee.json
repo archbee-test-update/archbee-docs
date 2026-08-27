@@ -123,42 +123,6 @@
         "children": []
       },
       {
-        "categoryName": "Shadow-docs",
-        "isCategory": true,
-        "children": [
-          {
-            "categoryName": "Another-shadow-document.mdx",
-            "isCategory": false,
-            "path": "shadow-docs/another-shadow-document.mdx",
-            "children": []
-          },
-          {
-            "categoryName": "Manual-shadow-document.mdx",
-            "isCategory": false,
-            "path": "shadow-docs/manual-shadow-document.mdx",
-            "children": []
-          },
-          {
-            "categoryName": "No-way.mdx",
-            "isCategory": false,
-            "path": "shadow-docs/no-way.mdx",
-            "children": []
-          },
-          {
-            "categoryName": "This-is-not-possible.mdx",
-            "isCategory": false,
-            "path": "shadow-docs/this-is-not-possible.mdx",
-            "children": []
-          },
-          {
-            "categoryName": "This-will-disappear.mdx",
-            "isCategory": false,
-            "path": "shadow-docs/this-will-disappear.mdx",
-            "children": []
-          }
-        ]
-      },
-      {
         "categoryName": "Teste",
         "isCategory": true,
         "children": [
@@ -192,6 +156,26 @@
         "categoryName": "Shadow Docs",
         "isCategory": true,
         "children": [
+          {
+            "path": "shadow-docs/another-shadow-document.mdx",
+            "children": []
+          },
+          {
+            "path": "shadow-docs/manual-shadow-document.mdx",
+            "children": []
+          },
+          {
+            "path": "shadow-docs/no-way.mdx",
+            "children": []
+          },
+          {
+            "path": "shadow-docs/this-is-not-possible.mdx",
+            "children": []
+          },
+          {
+            "path": "shadow-docs/this-will-disappear.mdx",
+            "children": []
+          },
           {
             "path": "shadow-docs/last-shadow-doc.mdx",
             "children": []
